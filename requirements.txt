@@ -1,0 +1,15 @@
+simplejson
+lxml
+codecov
+coverage
+flask>=2.0.0
+pre - commit
+pytest>=7.0.0
+PyJWT
+requests
+PyMySQL>=1.0.0
+SQLAlchemy>=2.0.0
+alembic>=1.7.0
+python-dotenv
+cryptography>=3.4.0
+bcrypt>=4.0.0
